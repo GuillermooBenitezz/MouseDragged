@@ -31,7 +31,7 @@ public class MouseDragged extends Application {
         
         Scene scene = new Scene(pane, 300, 130);
         
-        primaryStage.setTitle("HMouseDragged");
+        primaryStage.setTitle("MouseDragged");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
